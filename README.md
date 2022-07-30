@@ -3,6 +3,7 @@ The main idea of the software is that it is a tool that will be aimed at novice 
 # API key for accessing 
 https://docs.opendota.com/# -CD851130257D6C98D760E9CF00CABF6A 
 - Domain Name: guli.me
+- Account id: 76561198212848835
 
 # Requirements
 - Python3.x, PyQt5, pandas, scikit-learn 
