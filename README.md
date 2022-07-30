@@ -7,3 +7,6 @@ https://docs.opendota.com/# -CD851130257D6C98D760E9CF00CABF6A
 
 # Requirements
 - Python3.x, PyQt5, pandas, scikit-learn 
+
+# e.g
+- https://api.opendota.com/api/matches/271145478?api_key=CD851130257D6C98D760E9CF00CABF6A
